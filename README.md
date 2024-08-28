@@ -65,4 +65,5 @@ We plotted several features and color-coded them by class to explore the dataset
 #### Findings:
 Normalizing the data generally led to better performance by ensuring that all features contribute equally to the distance computations in the nearest neighbor classifier.
 
-### Experiment 3: Effect of Number of Neighbors (k)
+
+
